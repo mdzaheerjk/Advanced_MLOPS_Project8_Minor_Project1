@@ -10,6 +10,11 @@ A complete end-to-end MLOps minor project for classifying Iris flowers using mac
 > 📁 **Repository:** `Advanced_MLOPS_Project8_Minor_Project1`
 
 ---
+<p align="center">
+  <img src="https://housing.com/news/wp-content/uploads/2022/11/iris-flower-compressed.jpg" width="800" height="533">
+</p>
+
+
 
 ## 🚀 Project Highlights
 
